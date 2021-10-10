@@ -5,7 +5,7 @@ Juntos para o próximo nível. Um evento para dar o próximo passo na sua evolu�
 **Instrutor**: [Mayk Brito](https://github.com/maykbrito)
 
 <p align="center">
-  <img  width='400' src='https://github.com/eu-larissasouza/nlwValoriza/blob/main/src/img/nlw-edition.png?raw=true'>
+  <img  width='100%' src='https://github.com/eu-larissasouza/nlwValoriza/blob/main/src/img/nlw-edition.png?raw=true'>
 </p>
 <br>
 
