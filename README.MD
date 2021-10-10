@@ -12,7 +12,7 @@ Juntos para o próximo nível. Um evento para dar o próximo passo na sua evolu�
 ## Projeto: OriginSix
 
 <p align="center">
-  <img width='400' src="assets/fotos/beauty_salon.png">
+  <img width='100%' src="assets/fotos/beauty_salon.png">
 </p>
 
 ### Escopo
